@@ -1,0 +1,2 @@
+1 d, tidak
+2 program tersebut tidak bisa membaca nilai yang diinputkan user dengan sesuai, dikarenakan kesalahan pada codingan if yang berulang. Seharusnya jika sudah menggunakan if dan ingin menggunakan if lagi harus ditambah else didepan if
